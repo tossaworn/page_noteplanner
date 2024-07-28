@@ -77475,7 +77475,7 @@ p.n(q,"id",B.lD.SQ())
 if(p.h(q,o)!=null&&r.b(p.h(q,o)))this.SJ(p.h(q,o))}return a},
 FR(a,b){var s=t.z,r=A.A(s,s)
 s=A.jc(this.r,t.N,s)
-if(J.bM(this.e.h(0,"child"))===0)s.n(0,"text","Longpress this row to edit.")
+if(J.bM(this.e.h(0,"child"))===0)s.n(0,"text","Long press this row to edit.")
 s.n(0,"id",B.lD.SQ())
 r.n(0,"dataAdd",s)
 r.n(0,"idx",a)
@@ -77573,7 +77573,7 @@ p.push(A.ko(new A.dS(B.dF,A.bI(B.bZ,A.hq(b.h(0,"text"),q,q,q,B.dq,q,q),B.p,q,q,q
 s=a==="task"
 if(s)p.push(r.ZQ(b))
 if(!s)p.push(B.Me)
-return A.ky(!1,!0,A.bI(q,A.hi(p,B.cp,B.bA,B.aN),B.p,q,B.dH,q,q,B.bw,q),q,!0,q,q,q,q,q,q,q,q,new A.a99(r,b),new A.a9a(r,a,c),q,q,q,q)},
+return A.ky(!1,!0,A.bI(q,A.hi(p,B.cp,B.bA,B.aN),B.p,q,B.dH,q,q,B.bw,q),q,!0,q,q,q,q,q,q,q,q,new A.a99(r,b),new A.a9a(r,a,c),q,B.z,q,q)},
 a_9(a,b,c,d,e){var s=null,r=A.b([A.bI(s,A.bI(s,s,B.p,s,new A.cG(a,s,s,s,s,s,B.f_),s,s,s,s),B.p,s,s,50,s,B.j0,50),B.yg,A.ko(new A.dS(B.dF,A.bI(B.bZ,A.hq(b,s,s,s,B.dq,s,s),B.p,s,s,s,s,B.bw,s),s))],t.p)
 if(c)r.push(A.bI(s,B.DT,B.p,s,s,50,s,B.b_,50))
 return A.i5(B.T,s,A.ky(!1,!0,A.bI(s,A.hi(r,B.cp,B.bA,B.aN),B.p,s,B.dH,s,s,B.bw,s),s,!0,s,s,s,s,s,s,s,s,s,new A.a8L(this,d,b,e),s,s,s,s),B.p,s,0,s,s,s,s,s,B.c9)},
@@ -81260,7 +81260,7 @@ B.Mf=new A.fK(null,30,null,null)
 B.tb=new A.kJ(2,"center")
 B.aN=new A.FL(1,"max")
 B.dq=new A.r(!0,null,null,null,null,null,16,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.QH=new A.bA("Version 1.0.1",null,B.dq,null,null,null,null,null,null)
+B.QH=new A.bA("Version 1.0.2",null,B.dq,null,null,null,null,null,null)
 B.Fc=A.b(s([B.QH]),t.p)
 B.Kb=new A.nA(B.bj,B.tb,B.aN,B.a_,null,B.eN,null,B.Fc,null)
 B.EA=A.b(s([B.Mf,B.Kb]),t.p)
